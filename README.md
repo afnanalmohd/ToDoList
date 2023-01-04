@@ -1,6 +1,6 @@
-# ToDoList in  Flutter Application 
+# ToDoList Application 
 
-ToDoList is sample application in Flutter . it is allow user to add task and delete task from list. 
+ToDoList is sample application in Flutter that allow user to add task and delete task from list. 
 
 ## Photos for program :
 
